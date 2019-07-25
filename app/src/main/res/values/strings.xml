@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Explicit Intents Application</string>
+    <string name="welcome_to_activity_2">Welcome to Activity 2</string>
+    <string name="please_enter_your_name">Please Enter Your Name</string>
+    <string name="activity2">Activity2</string>
+    <string name="activity3">Activity3</string>
+    <string name="actity_3_output">Actity 3 Output</string>
+    <string name="please_enter_your_sur_name">Please Enter Your Sur Name</string>
+    <string name="submit">Submit</string>
+</resources>
